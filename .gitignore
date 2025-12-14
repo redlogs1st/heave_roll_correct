@@ -1,3 +1,4 @@
 # Các file cấu hình nhạy cảm (nên dùng .env thay cho config)
 .ven
 *.csv
+*.txt
